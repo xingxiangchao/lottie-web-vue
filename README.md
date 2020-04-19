@@ -1,7 +1,5 @@
 # lottie-web-vue
 
-> vue lottie-web
-
 ## Build Setup
 
 ``` bash
