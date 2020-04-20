@@ -14,6 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/xingxiangchao/lottie-web-vue.git"
   },
+  "main": "src/components/lottie.vue",
   "keywords": [
     "vue",
     "lottie"
@@ -81,5 +82,6 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "license": "MIT"
 }
